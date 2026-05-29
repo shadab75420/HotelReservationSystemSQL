@@ -4,7 +4,7 @@ Database Mini Project using Microsoft SQL Server
 
 ---
  
-## Introduction
+## Introduction 
 
 The Hotel Management System is a database management mini project developed using Microsoft SQL Server. The main purpose of this project is to manage hotel operations efficiently by maintaining records related to customers, room bookings, reservations, room categories, and payments. The project demonstrates practical implementation of SQL Server concepts such as normalization, relationships, CRUD operations, functions, views, triggers, indexes, and transactions.
 
