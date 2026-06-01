@@ -2,7 +2,7 @@
 
 Database Mini Project using Microsoft SQL Server
 
----
+--- 
  
 ## Introduction 
 
